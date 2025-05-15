@@ -1,0 +1,3 @@
+# Foundation of buinsess intelligence, Google coursera
+The course covers business intelligence (BI) fundamentals, focusing on the roles of BI analysts in an organization. It delves into BI tools, techniques, and their applications in decision-making and process improvement. The course explores the BI process, emphasizing stakeholder engagement, data utilization, and rapid monitoring for informed decisions. 
+It guides in building career resources, enhancing online presence, and networking strategies. The importance of contextual understanding in BI is highlighted, including addressing data limitations and adapting to constant changes. 
